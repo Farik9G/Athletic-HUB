@@ -1,4 +1,4 @@
-# class LoginController < AplicationController
+class LoginController < AplicationController
 #
 #   def new
 #
@@ -7,4 +7,4 @@
 #   def create
 #
 #   end
-# end
+end
