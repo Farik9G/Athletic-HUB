@@ -1,4 +1,4 @@
-class LoginController < AplicationController
+class LoginController < ApplicationController
 #
 #   def new
 #
